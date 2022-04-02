@@ -1,0 +1,1 @@
+# poo_abstract_class
