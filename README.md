@@ -2,7 +2,7 @@
 
 My page on localhost :
 
-/home/cidjie/wildcodeschool/POO/debuter/index.php:17:
+/home/index.php:17:
 object(MotorWay)[1]
   protected array 'currentVehicles' => 
     array (size=0)
@@ -10,7 +10,7 @@ object(MotorWay)[1]
   protected int 'nbLane' => int 4
   protected int 'maxSpeed' => int 30
 
-/home/cidjie/wildcodeschool/POO/debuter/index.php:19:
+/home/index.php:19:
 array (size=0)
   empty
 
@@ -19,7 +19,7 @@ array (size=0)
 Stop! You are not autorised !
 Ok, you are autorised !
 
-/home/cidjie/wildcodeschool/POO/debuter/index.php:26:
+/home/index.php:26:
 object(ResidentialWay)[2]
   protected array 'currentVehicles' => 
     array (size=0)
@@ -32,7 +32,7 @@ object(ResidentialWay)[2]
 Ok, you are autorised !
 Stop ! You are not autorised !
 
-/home/cidjie/wildcodeschool/POO/debuter/index.php:34:
+/home/index.php:34:
 object(PedestrianWay)[3]
   protected array 'currentVehicles' => 
     array (size=0)
